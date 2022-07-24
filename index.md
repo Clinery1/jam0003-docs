@@ -41,3 +41,5 @@
 - [Length](length.md)
 - [Stack debug print](debug_print.md)
 - [Random values](random.md)
+- [Rotate list](list_rotate.md)
+- [Int/Char cast](int_char_cast.md)
